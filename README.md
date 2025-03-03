@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Welcome to my vibrant GitHub space, where code meets creativity.<br><br>🔭 Currently working on: Innovative mobile and web app projects.<br> 🌱 Currently learning: Advanced programming techniques and modern UI/UX design.<br> 👯 Looking to collaborate on: Open-source projects and creative tech ventures.<br> 🤔 Looking for help with: Code optimization and new design patterns.<br> 💬 Ask me about: Flutter, software development, or my journey in IT.<br> 📫 Reach me at: irvinsenwedi@gmail.com <br>😄 Pronouns: He/Him ⚡ Fun fact: When I'm not coding, I'm exploring the latest tech trends or diving into a good game!<br><br>Let's create something extraordinary together!<br><br>Thanks for stopping by my profile. Let's connect, collaborate, and create something extraordinary together!</p>
+<p align="left">Welcome to my vibrant GitHub space, where code meets creativity.<br><br>🔭 Currently working on: Innovative mobile and web app projects.<br> 🌱 Currently learning: Advanced programming techniques and modern UI/UX design.<br> 👯 Looking to collaborate on: Open-source projects and creative tech ventures.<br> 🤔 Looking for help with: Code optimization and new design patterns.<br> 💬 Ask me about: Flutter, software development, or my journey in IT.<br> 📫 Reach me at: irvinsenwedi@gmail.com <br>😄 Pronouns: He/Him ⚡<br> I'll still be a programmer in my next life ,probably refactoring the universe with cleaner algorithms<br><br>Let's create something extraordinary together!<br><br>Thanks for stopping by my profile. Let's connect, collaborate, and create something extraordinary together!</p>
 
 ###
 
